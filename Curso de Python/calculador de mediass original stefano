@@ -1,0 +1,11 @@
+numerodepessoas = int (input("Digite a quantidade de pessoas: "))
+Num = numerodepessoas
+i = 0
+
+while i < Num:
+	Idades =  int (input("Digite as idades das pessoas: "))
+	soma = idades + soma
+	i += 1
+media = soma / num 
+
+print (media)
